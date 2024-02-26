@@ -16,6 +16,7 @@
 This is a data analysis project which aims at finding the best 11 players based on certain criteria, as provided by the Subject Matter Experts (SMEs) of the game, to select the best playing 11 team.
 
 **Final Report**
+
 ![Openers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/71cc7eaa-f87c-4e75-9bc6-7e7719fdddf7)
 ![Anchors](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/41102510-ee5d-46d3-a8cf-6b34c088113a)
 ![Finishers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/b031ee5f-e99b-4f04-89a5-413d847c9269)
