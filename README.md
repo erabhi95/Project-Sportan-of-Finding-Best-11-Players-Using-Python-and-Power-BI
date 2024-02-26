@@ -10,7 +10,6 @@
 - [Data Visualisation](#data-visualisation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results](#results)
-- [Insights and Recommendations](#insights-and-recommendations)
 
 ### Project Overview
 This is a data analysis project which aims at finding the best 11 players based on certain criteria, as provided by the Subject Matter Experts (SMEs) of the game, to select the best playing 11 team.
