@@ -71,19 +71,9 @@ Player details were the KPI's like
 - EDA is performed on the players data to find the best playing 11 for the team based on the given criteria. 
 
 ### Results
-- As per the **Daily order trends, the Orders are Maximum on weekend evenings i.e. on Saturday & Sunday**. Strangely, there are even more daily orders on Monday.
-- As per **Monthly order trends, the orders are maximum from January to July** months of the year.
-- **'Classic' pizza category contributes maximum** to the Total Sales and Total number of Orders.
-- **'Large' size pizza contributes maximum** to the Total Sales.
-- In terms of **Revenue, 'The Thai Chicken pizza' has the maximum** revenue while **'The Brie Carre Pizza' has the minimum**.
-- In terms of **Quantity Sold, 'The Classic Delux pizza' has the maximum** value while **'The Brie Carre Pizza' has the minimum**.
-- In terms of **Total Orders, 'The Classic Delux pizza' has the maximum** value while **'The Brie Carre Pizza' has the minimum**.
-  
-
-### Insights and Recommendations
-Inorder to improve “Dominos” Sales & Profits :
-- Since **maximum orders are on Monday indepth analysis should be done** to figure out the possible root cause and further strategy should be made.
-- For the **weekends i.e. Saturday & Sunday more offers should be rolled out** to further increase the sales of pizza.
-- Since **'Classic' category & 'Large' size are the most preffered** customer choice, special attention should be given to them with **100% stock availability**, in order to maintain customer satisfaction with Dominos store.
-- Similarly **'The Thai Chicken Pizza' & 'The Classic Delux Pizza' are the most preffered** customer choice, therefore **special attention** should be given to them with **100% stock availability**.
-- **'The Brie Carre Pizza' is the least preffered choice** of customers, therefore **customer feedbacks** can be taken for this to know the root cause (if any).  
+Five dashboards were created for each of the categories of players (Openers, Anchors, Finishers, All Rounders, Specialist Fast bowlers) based on the criteria given. Below are the shortlisted ones. 
+- **Openers** - Rilee Rossouw, Quiton de Kock, Alex Hales, Kusal Mendis, Jos Buttler
+- **Anchors** - Suryakumar Yadav, Glenn Phillips, Virat Kohli, Lorcan Tucker
+- **Finishers** - Curtis Campher, Marcus Stoinis, Glenn Maxwell, Sikandar Raza, Hardik Pandya
+- **All Rounders** - Rashid Khan, Shadab Khan, Mitchell Santner, Sikandar Raza
+- **Specialist Fast Bowler** - Tim Southee, Sam Curran, Shaheen Shan Afridi, Anrich Nortje
