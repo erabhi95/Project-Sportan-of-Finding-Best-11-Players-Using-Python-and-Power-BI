@@ -33,7 +33,7 @@ The primary dataset used for this analysis are the following JSON files-
 
 ### Tools
 1. **Python Libraries (Numpy, Pandas, DataFrames)** - For conversion of unstructured data into structured form
-2. **Microsoft Power BI** - For Data Visualisation and Anaysis
+2. **Microsoft Power BI** - For Data Visualisation and Analysis
 
 ### KPIs Considered
 Player details were the KPI's like 
@@ -62,7 +62,7 @@ Player details were the KPI's like
    
 ### Data Visualisation
 1. Created an interactive dashboards for each of the 5 categories of players (Openers, Anchors, Finishers, All Rounders, Specialist Fast bowlers) based on the criteria given.
-2. Added 'player details' as tool tip on each of the page for more detais.
+2. Added 'player details' as tool tip on each of the page for more detaiLs.
 3. Added navigation buttons across pages.
 4. Created a Final 11 players report for each selection and analysis by the concerned user.
 
