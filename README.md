@@ -16,13 +16,13 @@ This is a data analysis project which aims at finding the best 11 players based 
 
 **Final Report**
 
-![Openers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/71cc7eaa-f87c-4e75-9bc6-7e7719fdddf7)
-![Anchors](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/41102510-ee5d-46d3-a8cf-6b34c088113a)
-![Finishers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/b031ee5f-e99b-4f04-89a5-413d847c9269)
-![All Rounders](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/356512bf-f5d4-4dc6-97e1-0c67f92820bd)
-![Specialist Fast Bowlers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/2a14f850-50a4-462f-9438-6cbefe0c3d32)
-![Player Details](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/9c5db11f-53ee-45a6-a546-1ae9c8edefbf)
-![Final 11](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/fb968b5a-472e-44ce-b4fc-749daffb0e0a)
+![Openers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/1a827b50-cbb4-4d76-babb-b890d7187ead)
+![Anchors](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/9b7621c6-5afa-4929-acd9-cbf2aae8968c)
+![Finishers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/e47bb85e-e607-4c5d-a0c2-16855cd3a0ca)
+![All Rounders](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/40b0197a-5889-4417-99d8-fdb6fd1d575e)
+![Specialist Fast Bowlers](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/104d8e54-6adb-49d8-ba86-17ea9001e1d6)
+![Player Details](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/9bcd1135-c5dc-430e-9d0a-e9e2a148565b)
+![Final 11](https://github.com/erabhi95/Project-Sportan-of-Finding-Best-11-Players-Using-Python-and-Power-BI/assets/159037337/2e146917-76f5-4db0-a436-3d80b66c6cc1)
 
 ### Data Sources
 The primary dataset used for this analysis are the following JSON files-
